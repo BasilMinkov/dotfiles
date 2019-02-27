@@ -12,4 +12,4 @@ Here I store my collection of the [dotfiles](https://wiki.archlinux.org/index.ph
 
 - [`.vimrc`](https://github.com/BasilMinkov/dotfiles/blob/master/.vimrc)
 
-`.vimrc` files are saved in a plain text format. They store a series of instructions, each of which can be run manually in the Vim editor by typing a colon ":" character and entering the command. Common settings include text indentation properties and window and font colors.
+`.vimrc` store a series of instructions, each of which can be run manually in the Vim editor by typing a colon ":" character and entering the command. Common settings include text indentation properties and window and font colors.
